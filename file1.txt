@@ -1,4 +1,3 @@
-Robert Petersen testing vim
-ID# 001099211
-
-will this show an updated time in git, says 20 minutes at current
+Robert Peterson
+Computer Science
+my favorite color is yellow... orange... or blue... I don't know..
