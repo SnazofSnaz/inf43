@@ -5,3 +5,4 @@ will this show an updated time in git, says 20 minutes at current
 
 Timothy Vu
 Computer Science
+Red
