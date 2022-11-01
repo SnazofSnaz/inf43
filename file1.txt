@@ -2,3 +2,6 @@ Robert Petersen testing vim
 ID# 001099211
 
 will this show an updated time in git, says 20 minutes at current
+
+Timothy Vu
+Computer Science
